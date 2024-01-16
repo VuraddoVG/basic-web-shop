@@ -1,0 +1,1 @@
+Each file in this directory represents a page in application and `[id].ts` is a dynamic page to fit any selected category, product, etc.

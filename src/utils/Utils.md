@@ -1,0 +1,1 @@
+Utility functions that are not directly related to the UI components or API calls. For example, formatDate.js could be a function to format dates, and calculateTotal.js could be a function to calculate the total cost of an order.

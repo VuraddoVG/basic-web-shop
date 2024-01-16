@@ -1,0 +1,1 @@
+This directory contains API routes that handle server-side logic.

@@ -1,0 +1,1 @@
+This directory should contain either shared or page specific components which are imported to reduce visual clutter(increase readability).
